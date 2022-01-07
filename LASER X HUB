@@ -28,7 +28,7 @@ TextLabel.BackgroundTransparency = 1.000
 TextLabel.Position = UDim2.new(0.419472903, 0, 0.443729907, 0)
 TextLabel.Size = UDim2.new(0, 219, 0, 70)
 TextLabel.Font = Enum.Font.SpecialElite
-TextLabel.Text = "POGAMING HUB"
+TextLabel.Text = ""
 TextLabel.TextColor3 = Color3.fromRGB(247, 72, 119)
 TextLabel.TextSize = 100.000
 TextLabel.TextStrokeTransparency = 0.000
@@ -3672,7 +3672,7 @@ if game.PlaceId == 2753915549 or game.PlaceId == 4442272183 or game.PlaceId == 7
 	return top
 	end
 
-	local Window = create:Win("P O G A M I N G x H U B")
+	local Window = create:Win("L A S E R x H U B")
 	local Tap1 = Window:Taps("Auto Farm")
 	local Tap2 = Window:Taps("Stats")
 	local Tap3 = Window:Taps("Teleport & Buy")
